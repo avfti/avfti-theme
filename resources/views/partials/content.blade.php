@@ -7,5 +7,3 @@
     @php(the_excerpt())
   </div>
 </article>
-
-<div>test</div>
